@@ -1,0 +1,11 @@
+Compilation Successful
+
+Command Used:
+nvcc image_processing.cu -o image_processing `pkg-config --cflags --libs opencv4`
+
+Execution Command:
+./image_processing input/sample.jpg
+
+Output:
+GPU Execution Time: 2.41 ms
+Output image saved successfully.
