@@ -1,0 +1,3 @@
+This project demonstrates GPU accelerated image processing using CUDA C++. The application converts color images into grayscale format using CUDA kernels executed on an NVIDIA GPU.
+
+The project highlights the advantages of parallel processing and GPU acceleration compared to traditional CPU-based execution. CUDA concepts such as thread hierarchy, memory allocation, kernel execution, synchronization, and device-host memory transfer were implemented.
